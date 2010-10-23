@@ -5,8 +5,8 @@
 %define		_requires_exceptions pear(Image/Color.php)
 
 Name:		php-pear-%{upstream_name}
-Version:	1.1.1
-Release:	%mkrel 11
+Version:	1.1.2
+Release:	%mkrel 1
 Summary:	Visualization of GIS data
 License:	PHP License
 Group:		Development/PHP
