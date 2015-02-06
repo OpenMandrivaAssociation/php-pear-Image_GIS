@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.2
-Release:	4
+Release:	5
 Summary:	Visualization of GIS data
 License:	PHP License
 Group:		Development/PHP
