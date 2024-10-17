@@ -8,7 +8,7 @@ Release:	5
 Summary:	Visualization of GIS data
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Image_GIS/
+URL:		https://pear.php.net/package/Image_GIS/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires:	php-gd
 Requires(post): php-pear
